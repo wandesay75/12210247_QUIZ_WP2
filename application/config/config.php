@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/NIM_QUIZ_WPII/';
+$config['base_url'] = 'http://localhost/12210247_QUIZ_WPII/';
 
 /*
 |--------------------------------------------------------------------------
